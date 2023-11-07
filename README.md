@@ -1,2 +1,2 @@
 # webresume
-My resume hosted on git
+My static webresume hosted on git
